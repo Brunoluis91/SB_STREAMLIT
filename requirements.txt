@@ -1,2 +1,2 @@
 constants
-python-docs
+python-docx
